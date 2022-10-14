@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --color-1: #172d30;
+  --color-2: #ffffd4;
+  --color-3: #16f04c;
+  --color-4: #009b48;
+}
+
+body {
+  background: #172d30;
+  overflow: hidden;
+  cursor: none;
+}
